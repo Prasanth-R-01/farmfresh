@@ -1,0 +1,122 @@
+@media screen and (max-width :768px) {
+  .home-img{
+    display: none;
+  }
+}
+
+a{
+    color: black;
+}
+
+a:hover{
+  text-decoration: none;
+}
+
+#categories{
+   text-align: center;
+   background-color: #b6eb7a ;
+   padding: 2% 15% 5%;
+   font-family: 'Josefin Sans ', sans-serif;
+ }
+
+#footer{
+  text-align: center;
+  background-color: #79d70f;
+  color: #fff;
+  padding: 7% 15%;
+  font-family: 'Josefin Sans ', sans-serif;
+}
+
+ .navbar-brand{
+  font-size: 2rem;
+}
+
+
+.home {
+  background-color: #b6eb7a;
+  text-align: center;
+  padding: 5% 15% ;
+}
+
+.heading {
+  margin: auto;
+  padding-top: 7%;
+  text-align: left;
+}
+
+.firstHeading {
+  font-family: 'Josefin Sans ', sans-serif;
+  font-size: 5rem;
+
+}
+
+.secondHeading {
+  color: #f7f7ee;
+  font-family: 'Abel', sans-serif;
+  font-size: 3.5rem;
+  margin-top: auto;
+}
+
+.home-img {
+  padding: 7% 3%;
+  width: 5%;
+  background-color: #b6eb7a;
+}
+
+.features{
+  padding: 7% 15%;
+  text-align: center;
+}
+
+
+.fa-icon{
+  color: #79d70f;
+  margin: 3%;
+}
+
+.fa-icon:hover{
+  color: #b6eb7a;
+}
+
+.categ-title{
+  text-align: center;
+  letter-spacing: 3px;
+  font-size: 2.5rem;
+  font-family: 'Julius Sans One', sans-serif;
+  padding-bottom: 3%;
+}
+
+.veg-icon{
+  color: #fb7813;
+  margin: 3%;
+}
+
+.fruit-icon{
+  color: #d32626;
+  margin: 3%;
+}
+
+.others-icon{
+  color: #fafafa;
+  margin: 3%;
+}
+
+/* background and styling for vegetables and other product sections */
+.lightbg-veg-others{
+  text-align: center;
+  padding: 3% 7%;
+  font-family: 'Josefin Sans ', sans-serif;
+}
+
+/* background and styling for fruits sections */
+.greenbg-fruits{
+  text-align: center;
+  background-color: #b6eb7a ;
+  padding: 3% 7%;
+  font-family: 'Josefin Sans ', sans-serif;
+}
+
+.socialmedia-buttons{
+  color: white;
+  padding: 3% 3%;
+}
